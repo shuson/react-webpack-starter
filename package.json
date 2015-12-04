@@ -5,7 +5,8 @@
   "main": "app/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "webpack-dev-server --devtool eval --progress --colors --hot",
+    "build": "webpack --devtool eval --progress --colors",
+    "up": "webpack-dev-server --devtool eval --quiet --colors --hot",
     "deploy": "NODE_ENV=production webpack --progress --hide-modules"
   },
   "repository": {
