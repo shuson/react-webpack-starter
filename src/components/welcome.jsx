@@ -1,7 +1,11 @@
 import React from 'react'
 
-export default class Welcome extends React.Component {
-  render() {
-    return <h3>Hello World</h3>
-  }
+class Welcome extends React.Component {
+    render() {
+        return (
+            <div>welcome home</div>
+        )
+    }
 }
+
+export default Welcome
