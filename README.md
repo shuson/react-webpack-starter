@@ -5,5 +5,4 @@ template project for react dancing with webpack
 ```
 npm run build
 ```
-
 2. For the sake of future support of react hot loader, I keep focus on its release
