@@ -1,3 +1,6 @@
+# Deprecated Alert
+Try out the 2018 version in https://github.com/shuson/react-starter-2018
+
 # react-webpack-starter
 template project for react dancing with webpack
 
