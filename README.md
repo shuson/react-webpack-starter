@@ -1,4 +1,4 @@
-# Deprecated Alert
+# Deprecation Alert
 Try out the 2018 version in https://github.com/shuson/react-starter-2018
 
 # react-webpack-starter
